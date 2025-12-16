@@ -11,3 +11,6 @@
 ## 3. Modificación y Cancelación
 - El cliente puede modificar o cancelar su reserva hasta 24 horas antes.
 - El sistema actualiza la disponibilidad automáticamente.
+
+## 4. Recordatorios
+Los clientes pueden recibir recordatorios 1 día antes de su reserva.
