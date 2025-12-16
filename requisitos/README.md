@@ -18,3 +18,5 @@ El sistema permitirá gestionar reservas de servicios de manera eficiente, tanto
 - Alta: RF001, RF004  
 - Media: RF002, RF003  
 - Baja: RNF002, RNF003
+  
+**RF005:** El sistema debe enviar recordatorios automáticos 1 día antes de la reserva.
